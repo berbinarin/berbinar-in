@@ -12,9 +12,8 @@
             <h1 class="about__title text-center md:w-full w-[90%]">Tentang Berbinar Insightful Indonesia</h1>
             <div class="flex flex-col items-center justify-center gap-0">
                 <p class="home__description md:w-[70%] w-[85%] text-justify">
-                Setiap individu mengalami episode yang sama di tahap kehidupannya. Inilah pentingnya seseorang memiliki pengetahuan seputar psikologi dan memahami dirinya sendiri. Berbinar hadir menawarkan layanan konseling bersama psikolog partner dan peer counselor untuk setiap individu yang sedang berjuang. Kami juga memiliki layanan online yang bisa diakses dengan fleksibel, di mana pun Anda berada, karena apa yang Anda rasakan <span class="block md:hidden">dan alami itu penting dan Anda berhak menjadi lebih baik lagi.</span>
+                Setiap individu mengalami episode yang sama di tahap kehidupannya. Inilah pentingnya seseorang memiliki pengetahuan seputar psikologi dan memahami dirinya sendiri. Berbinar hadir menawarkan layanan konseling bersama psikolog partner dan peer counselor untuk setiap individu yang sedang berjuang. Kami juga memiliki layanan online yang bisa diakses dengan fleksibel, di mana pun Anda berada, karena apa yang Anda rasakan dan alami itu penting dan Anda berhak menjadi lebih baik lagi.
                 </p>
-                <p class="home__description md:w-[70%] w-[85%] text-center hidden md:block" style="margin-top: -25px;">dan alami itu penting dan Anda berhak menjadi lebih baik lagi.</p>
             </div>
             <a href="#share" class="button">Kenali Lebih Jauh</a>
         </div>   

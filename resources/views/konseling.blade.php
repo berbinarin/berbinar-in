@@ -34,28 +34,28 @@
 			<div class="space-y-4">
 				<img alt="" class="object-cover h-56 mx-auto mb-4 bg-center rounded-xl dark:bg-gray-500" src="{{ asset('assets/images/konseling/psikolog1.jpg') }}">
 				<div class="flex flex-col items-center">
-					<h4 class="text-xl font-semibold text-center">Daniel Reyonald Bungaran, S.Psi., M.Psi.</h4>
+					<a target="_blank" href="https://drive.google.com/file/d/1mHcJvLoqeISx6GO1Qr8bhUQYd9Watwxm/view?usp=share_link" class="text-xl font-semibold text-center">Daniel Reyonald Bungaran, S.Psi., M.Psi.</a>
 					<p class="text-sm">S1 Unair, Mapro Unair</p>
 				</div>
 			</div>
 			<div class="space-y-4">
 				<img alt="" class="object-cover h-56 mx-auto mb-4 bg-center rounded-xl dark:bg-gray-500" src="{{ asset('assets/images/konseling/psikolog2.jpg') }}">
 				<div class="flex flex-col items-center">
-					<h4 class="text-xl font-semibold text-center">Danny Sanjaya Arfensia, S.Psi., M.Psi.</h4>
+					<a target="_blank" href="https://drive.google.com/file/d/1eSV7AxbEgG92eMrp4SVErcKJ8uacoahP/view?usp=share_link" class="text-xl font-semibold text-center">Danny Sanjaya Arfensia, S.Psi., M.Psi.</a>
 					<p class="text-sm">S1 Unair, Mapro Unair</p>
 				</div>
 			</div>
 			<div class="space-y-4">
 				<img alt="" class="object-cover h-56 mx-auto mb-4 bg-center rounded-xl dark:bg-gray-500" src="{{ asset('assets/images/konseling/psikolog7.jpg') }}">
 				<div class="flex flex-col items-center">
-					<h4 class="text-xl font-semibold text-center">Yeni Rahma Dwijayanti, S.Psi., M.Psi.</h4>
+					<a target="_blank" href="https://drive.google.com/file/d/19kMsZlPTv8e-5z9SbpuwcFVOJLtfqtUg/view?usp=share_link" class="text-xl font-semibold text-center">Yeni Rahma Dwijayanti, S.Psi., M.Psi.</a>
 					<p class="text-sm"> S1 Unair, Mapro Unair</p>
 				</div>
 			</div>
 			<div class="space-y-4">
 				<img alt="" class="object-cover h-56 mx-auto mb-4 bg-center rounded-xl dark:bg-gray-500" src="{{ asset('assets/images/konseling/psikolog6.jpg') }}">
 				<div class="flex flex-col items-center">
-					<h4 class="text-xl font-semibold text-center">Putu Diana Wulandari, S.Psi., M.Psi.</h4>
+					<a target="_blank" href="https://drive.google.com/file/d/1VCDlpDB3DHXiYJQfKCcEadqi8BmvbJ5y/view?usp=share_link" class="text-xl font-semibold text-center">Putu Diana Wulandari, S.Psi., M.Psi.</a>
 					<p class="text-sm">S1 Udayana, Mapro Unair
           </p>
 				</div>
@@ -66,14 +66,14 @@
       <div class="space-y-4">
         <img alt="" class="object-cover h-56 mx-auto mb-4 bg-center rounded-xl dark:bg-gray-500" src="{{ asset('assets/images/konseling/psikolog4.jpg') }}">
         <div class="flex flex-col items-center">
-          <h4 class="text-xl font-semibold text-center">Novia Solichah, S.Psi., M.Psi.i.</h4>
+          <a target="_blank" href="https://drive.google.com/file/d/1A8UBHm58SeRO0p0Erk9_B37Fyfv50xf4/view?usp=share_link" class="text-xl font-semibold text-center">Novia Solichah, S.Psi., M.Psi.i.</a>
           <p class="text-sm">S1 Uinsa, Mapro Unair</p>
         </div>
       </div>
       <div class="space-y-4">
         <img alt="" class="object-cover h-56 mx-auto mb-4 bg-center rounded-xl dark:bg-gray-500" src="{{ asset('assets/images/konseling/psikolog5.jpg') }}">
         <div class="flex flex-col items-center">
-          <h4 class="text-xl font-semibold text-center">Putri Maharani, S.Psi., M.Psi.i.</h4>
+          <a target="_blank" href="https://drive.google.com/file/d/1fSXvXB4hjSpPJNny6rOOZmxgqwuWqEWM/view?usp=share_link" class="text-xl font-semibold text-center">Putri Maharani, S.Psi., M.Psi.i.</a>
           <p class="text-sm">S1 Unair, Mapro Unair</p>
         </div>
       </div>

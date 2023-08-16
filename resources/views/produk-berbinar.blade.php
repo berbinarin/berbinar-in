@@ -13,9 +13,8 @@
             <div class="flex flex-col items-center justify-center gap-0">
                 <p class="home__description md:w-[70%] w-[92%] text-justify mb-[5rem]">
                 Kesehatan mental sering timbul di kalangan masyarakat. Namun, masih banyak dari kita yang merasa ragu untuk mencari bantuan. Mahalnya biaya konsultasi dan jasa psikotes menjadi penghalang utama untuk cari pertolongan lebih lanjut.
-                Permasalahan ini menjadi alasan berdirinya Berbinar Insightful Indonesia. Berbinar <span class="block md:hidden">memberikan layanan psikotes, konseling, dan kelas, yang fleksibel dan sesuai kebutuhan.</span>
+                Permasalahan ini menjadi alasan berdirinya Berbinar Insightful Indonesia. Berbinar memberikan layanan psikotes, konseling, dan kelas, yang fleksibel dan sesuai kebutuhan.
                 </p>
-                <p class="home__description md:w-[70%] w-[85%] text-center hidden md:block" style="margin-top: -25px;">memberikan layanan psikotes, konseling, dan kelas, yang fleksibel dan sesuai kebutuhan.</p>
             </div>
         </div>   
     </div>

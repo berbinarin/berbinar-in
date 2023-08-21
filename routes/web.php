@@ -20,4 +20,4 @@ Route::get('/produk-berbinar', [LandingController::class, 'produkBerbinar'])->na
 Route::get('/konseling', [LandingController::class, 'konseling'])->name('konseling');
 Route::get('/psikotes', [LandingController::class, 'psikotes'])->name('psikotes');
 Route::get('/kelas', [LandingController::class, 'kelas'])->name('kelas');
-Route::get('/artikel', [LandingController::class, 'artikel'])->name('artikel');
+Route::get('/work-with-us', [LandingController::class, 'workWithUs'])->name('workWithUs');

@@ -72,11 +72,15 @@
             @yield('content')
         </main>
 
-        @include('layouts.footer')
+        @if ($page !== 'Work With Us')
+            @include('layouts.footer')
+        @endif
 
         @include('layouts.scripts')
 
-        @include('layouts.cta')
+        @if ($page !== 'Work With Us')
+            @include('layouts.cta')
+        @endif
 
         <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
         <script>

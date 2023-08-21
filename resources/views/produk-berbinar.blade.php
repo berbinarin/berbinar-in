@@ -225,23 +225,21 @@
     </div>
 </section>
 
-<!--========== SEND GIFT ==========-->
-<section class="send section">
-    <div class="send__container bd-container bd-grid">
-        <div class="send__content">
-            <h2 class="section-title-center send__title font-semibold">Hubungi Kami Sekarang</h2>
-            <p class="send__description">Buat janji dan lakukan konseling dengan tim Berbinar Insightful Indonesia untuk layanan konseling online ataupun offline.</p>
-            <form action="">
-                <div class="send__direction">
-                    <input type="text" placeholder="Email address" class="send__input">
-                    <a href="#" class="button">Kirim</a>
-                </div>
-            </form>
+<!--========== CALL TO ACTION ==========-->
+<section class="send section relative">
+    <div class="send__container bd-container bd-grid relative">
+        <div class="flex flex-row items-center justify-between">
+            <div class="send__content">
+                <h2 class="section-title-center send__title font-semibold">Hubungi Kami Sekarang</h2>
+                <p class="send__description">Buat janji dan lakukan konseling dengan tim Berbinar Insightful Indonesia untuk layanan konseling online ataupun offline.</p>
+            </div>
+
+            <a href="https://wa.me/6282141869800" target="_blank" class="button-secondary absolute right-14">Hubungi Kami</a>
         </div>
 
-        <!-- <div class="send__img w-[20rem]">
-            <img src="assets/img/chatting.svg" class="w-[20rem]" alt="">
-        </div> -->
+        <div class="send__img">
+            <!-- <img src="assets/img/send.png" alt=""> -->
+        </div>
     </div>
 </section>
 @endsection

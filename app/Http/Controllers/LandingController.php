@@ -100,6 +100,11 @@ class LandingController extends Controller
         return view('produk-berbinar');
     }
 
+    public function workWithUs()
+    {
+        return view('work-with-us');
+    }
+
     public function artikel()
     {
         return view('artikel');

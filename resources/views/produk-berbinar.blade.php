@@ -29,13 +29,13 @@
            
         </div>
         <div class="swiper-slide relative">
-            <img src="https://i.postimg.cc/9062mTFV/2.png" title="Slider's Image" alt="Slider's Image" class="-z-50 absolute" />
+            <img src="https://i.postimg.cc/7h5L6vfQ/2.png" title="Slider's Image" alt="Slider's Image" class="-z-50 absolute" />
             <div class="description absolute top-0 flex flex-col items-start md:px-[3.5rem] px-[1.5rem] py-[2rem] md:py-[4.5rem] gap-40">
             </div>
            
         </div>
         <div class="swiper-slide relative">
-            <img src="https://i.postimg.cc/c120Bq7j/3.png" title="Slider's Image" alt="Slider's Image" class="-z-50 absolute" />
+            <img src="https://i.postimg.cc/MZLTLGLk/3.png" title="Slider's Image" alt="Slider's Image" class="-z-50 absolute" />
             <div class="description absolute top-0 flex flex-col items-start md:px-[3.5rem] px-[1.5rem] py-[2rem] md:py-[4.5rem] gap-40">
             </div>
             

@@ -367,7 +367,7 @@ img{
 .accessory__content{
   position: relative;
   display: grid;
-  padding: 1rem .75rem .75rem;
+  padding: 1rem .35rem .75rem;
   background-color: var(--container-color);
   box-shadow: 0 2px 6px rgba(65,11,16,.15);
   border-radius: 1rem;

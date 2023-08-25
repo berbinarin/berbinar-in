@@ -11,7 +11,6 @@ var swiper = new Swiper(".mySwiper", {
         slideShadows: true,
     },
     loop: true,
-    autoplay: true,
     pagination: {
         el: '.swiper-pagination',
         type: 'bullets',

@@ -21,11 +21,11 @@
 </section>
 
 <!--========== ABOUT BERBINAR ==========-->
-<section class="flex flex-col md:flex-row gap-5 px-5 py-16 relative md:max-w-6xl md:mx-auto mt-16">
-    <div class="flex flex-col gap-5 md:items-center md:justify-center">
-      <h2 class="text-4xl md:text-[30px] md:text-center md:leading-[60px] font-semibold">{{ $whySection["title"] }}</h2>
-      <p class="home__description text-center">{{ $whySection["description"] }}</p>
-      <a href="/produk-berbinar" target="_blank" class="button">Lihat Produk Berbinar</a>
+<section class="flex flex-col md:flex-row gap-5 px-5 py-16 relative md:max-w-6xl md:mx-auto  mt-8 md:mt-16">
+    <div class="flex flex-col gap-5 items-center md:justify-center">
+      <h2 class="text-2xl md:text-4xl md:text-[30px] text-center md:leading-[60px] font-semibold">{{ $whySection["title"] }}</h2>
+      <p class="home__description text-justify  md:text-center">{{ $whySection["description"] }}</p>
+      <a href="/produk-berbinar" target="_blank" class="button w-fit text-center">Lihat Produk Berbinar</a>
 
       <div class="flex flex-row gap-6 mt-8">
         @foreach ($whySection["achievements"] as $achievement)
@@ -73,13 +73,13 @@
 <!--========== CALL TO ACTION ==========-->
 <section class="send section relative">
     <div class="send__container bd-container bd-grid relative">
-        <div class="flex flex-row items-center justify-between">
+        <div class="flex flex-col md:flex-row items-center justify-between">
             <div class="send__content">
                 <h2 class="section-title-center send__title font-semibold">Hubungi Kami Sekarang</h2>
                 <p class="send__description">Buat janji dan lakukan konseling dengan tim Berbinar Insightful Indonesia untuk layanan konseling online ataupun offline.</p>
             </div>
 
-            <a href="https://wa.me/6282141869800" target="_blank" class="button-secondary absolute right-14">Hubungi Kami</a>
+            <a href="https://wa.me/6282141869800" target="_blank" class="button-secondary md:absolute md:right-14">Hubungi Kami</a>
         </div>
 
         <div class="send__img">

@@ -86,7 +86,7 @@ class LandingController extends Controller
                 "name" => "Regina Amanda Sharen",
                 "jabatan" => "Manager",
                 "divisi" => "Secretary & Finance",
-                "testimonial" => "Produk Berbinar pun sgt beragam dan pastiny ramah di kantong. Menurut saya produk-produk Berbinar telah sesuai dengan kebutuhan masyarakat skrng ini. Selain itu dengan harga yg affordable sehingga dapat dibeli oleh semua kalangan usia.",
+                "testimonial" => "Produk Berbinar pun sgt beragam dan pastiny ramah di kantong. Menurut saya produk-produk Berbinar telah sesuai kebutuhan masyarakat.",
                 "image" => "https://i.postimg.cc/5tcTscYV/60-CC00-E1-003-B-488-B-A89-D-82213-B9-D2415-Amanda-Sharen.png"
             ],
         ];

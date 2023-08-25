@@ -128,23 +128,17 @@
         <h2 class="section-title font-[600]">What They Say?</h2>
     </div>
 
-    <div class="flex-1 xl:mx-8 swiper mySwiper max-w-7xl md:w-full w-full mx-auto flex items-center justify-center">
-        <div class="swiper-wrapper">
+    <div class="flex-1 xl:mx-8 swiper mySwiper max-w-7xl md:w-full w-full mx-auto flex items-center justify-center -mt-7">
+        <div class="swiper-wrapper w-full">
             @foreach($testimonials as $testimonial)
-            <section class="p-6 swiper-slide">
-                <div class="container max-w-xl mx-auto">
-                    <div class="flex flex-col items-center w-full p-6 space-y-8 rounded-md lg:h-full lg:p-8 shadow-md">
+            <section class="p-6 swiper-slide w-full md:w-full">
+                <div class="container max-w-xl mx-auto w-full">
+                    <div class="flex flex-col items-center w-full p-6 space-y-8 rounded-md lg:h-full lg:p-8 shadow-md pb-8">
                         <img src={{ $testimonial["image"] }} alt="" class="w-20 h-20 rounded-full dark:bg-gray-500 object-cover">
                         <blockquote class="max-w-lg text-lg italic font-medium text-center">"{{ $testimonial["testimonial"] }}"</blockquote>
                         <div class="text-center dark:text-gray-400">
                             <p>{{ $testimonial["name"] }}</p>
                             <p>{{ $testimonial["divisi"] }}</p>
-                        </div>
-                        <div class="flex space-x-2">
-                            <button type="button" aria-label="Page 1" class="w-2 h-2 rounded-full dark:bg-gray-50"></button>
-                            <button type="button" aria-label="Page 2" class="w-2 h-2 rounded-full dark:bg-gray-600"></button>
-                            <button type="button" aria-label="Page 3" class="w-2 h-2 rounded-full dark:bg-gray-600"></button>
-                            <button type="button" aria-label="Page 4" class="w-2 h-2 rounded-full dark:bg-gray-600"></button>
                         </div>
                     </div>
                 </div>

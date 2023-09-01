@@ -87,9 +87,15 @@
                         <div class="ml-4">
                             <h4 class="text-lg font-semibold leading-6">Jenis Konseling</h4>
                             <p class="mt-2">Di Berbinar terdapat dua jenis konseling yang dapat dipilih oleh sobar berbinar sesuai kebutuhan dan kenyamanan sobat, diantara lain ada Konseling with Psikolog dan Konseling with Peer Counselor.</p>
+
+                            <a href="/konseling" target="_blank" class="button mt-5">Lihat Detail</a>
                         </div>
+                        
                     </div>
+                    
                 </div>
+
+                
             </div>
             <div aria-hidden="true" class="mt-0 lg:mt-0">
                 <img src="https://i.postimg.cc/x1DmqBKp/konseling.png" alt="" class="mx-auto w-[30rem]">
@@ -125,6 +131,8 @@
                             <div class="ml-4">
                                 <h4 class="text-lg font-semibold leading-6">Fokus Asesmen Perusahaan</h4>
                                 <p class="mt-2">Assesmen Psikologi untuk Perusahaan digunakan untuk melihat potensi, kelebihan dan kekurangan, serta kecenderungan kepribadian seorang kandidat dan melihat apakah kandidat tersebut cocok ditempatkan di suatu posisi pekerjaan.</p>
+
+                                <a href="/psikotes" target="_blank" class="button mt-5">Lihat Detail</a>
                             </div>
                         </div>
                     </div>
@@ -174,6 +182,8 @@
                                 • Training: Be Super Hero as Peer Counselor! <br>
                                 Untuk kelas - kelas dengan topik yang lain akan diinfokan melalui instagram Berbinar
                             </p>
+
+                            <a href="/kelas" target="_blank" class="button mt-5">Lihat Detail</a>
                         </div>
                     </div>
                 </div>

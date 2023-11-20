@@ -59,7 +59,7 @@
 
         <link href="https://unpkg.com/aos@2.3.1/dist/aos.css" rel="stylesheet">
     </head>
-    <body class="relative font-poppins bg-white">
+    <body class="relative font-poppins bg-cover bg-center bg-no-repeat" style="background-image: src="{{ asset('assets/images/bg-sementara.png')}}">
         <!--========== SCROLL TOP ========-->
         <a href="#" class="scrolltop" id="scroll-top">
             <i class='bx bx-up-arrow-alt scrolltop__icon'></i>

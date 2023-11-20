@@ -16,7 +16,7 @@
   --container-color: #FFF;
 
   /*========== Font and typography ==========*/
-  --body-font: 'Poppins', sans-serif;
+  --body-font: 'Plus Jakarta Sans', sans-serif;
   --biggest-font-size: 2.5rem;
   --h2-font-size: 1.25rem;
   --h3-font-size: 1.125rem;
@@ -117,7 +117,6 @@ img{
 
 .section-title, .section-title-center{
   font-size: var(--h2-font-size);
-  color: var(--title-color);
   text-align: center;
   margin-bottom: var(--mb-3);
 }
@@ -293,6 +292,16 @@ img{
   transition: .3s;
 }
 
+.button-new {
+  display: inline-block;
+  background-color: #75BADB;
+  color: #fff;
+  padding: 0.5rem 1.5rem;
+  border-radius: .5rem;
+  font-weight: var(--font-semi-bold);
+  transition: .3s;
+}
+
 .button-secondary {
   display: inline-block;
   background-color: #FFF;
@@ -394,7 +403,6 @@ img{
 .accessory__category{
   font-size: var(--small-font-size);
   margin-bottom: var(--mb-1);
-  color: var(--text-color-light);
 }
 
 .accessory__preci{
@@ -585,7 +593,7 @@ img{
   }
 
   .accessory__content{
-    padding: .5rem 1.5rem 1.5rem;
+    padding: .9rem 1.5rem 3rem;
   }
 
   .accessory__img{
